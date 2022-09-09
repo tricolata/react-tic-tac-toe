@@ -1,0 +1,11 @@
+React
+* Component - isolated pieces of Code. 
+            - parameter -> props , return -> render()
+            - render() = returns description of what you want rendered or known as React Element
+* JSX - special syntax for writing this Components. 
+
+Run
+* npm start
+
+
+reference - https://reactjs.org/tutorial/tutorial.html#setup-option-2-local-development-environment
